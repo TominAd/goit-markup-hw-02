@@ -1,0 +1,98 @@
+body{
+    background-color: #FFFFFF;
+}
+
+ul{
+    list-style: none;
+}
+/*цвет основного текста #212121, 100 % */
+
+/* вторичный цвет #757575, 100 % */
+
+/*акцент #2196F3 */
+/* белый цвет #FFFFFF */
+/* фон для сотрудников #F5F4FA */
+/* фон для первой части и для подвала #2F303A */
+/* 
+:root {
+    --primary-text-color: #212121;
+    --title-text-color: #757575;
+    --accent-color: #2196F3;
+} */
+
+.logo{
+    color: #2196F3;
+}
+.logo-black{
+    color: #212121;
+}
+
+/* site-nav */
+.site-nav .link{
+    color: #212121;
+}
+.site-nav .link:hover,
+.site-nav .link:focus {
+    color: #2196f3;
+}
+ .site-nav .link.current{
+    color: #2196F3;
+}
+/* site-nav mail */
+.site-nav-mail .mail {
+    color: #757575;
+}
+
+.site-nav-mail .mail:hover,
+.site-nav-mail .mail:focus {
+    color: #2196F3;
+}
+/* section hero title */
+.hero-title{
+    color: #ffffff;
+    background-color: #2F303A;
+}
+/* button */
+.hero-button{
+    color: white;
+    background-color: #2196F3;
+}
+/* section feature */
+.feature-list .title{
+    color: #212121;
+}
+.feature-text{
+    color: #757575;
+}
+/* work-title */
+.work-title{
+    color: #212121;
+}
+/* about team */
+.team{
+    color: #212121;
+    background-color: #F5F4FA;
+}
+.name-team{
+    color: 212121;
+}
+.position{
+    color: #757575;
+}
+/* footer */
+.footer{
+    background-color: #2F303A;
+}
+.logo-footer{
+    color: #ffffff;
+}
+.footer-local{
+    color: #ffffff;
+}
+.footer-mail{
+    color: #ffffff;
+}
+.footer-tel{
+    color: #ffffff;
+}
+/* page portfolio */
