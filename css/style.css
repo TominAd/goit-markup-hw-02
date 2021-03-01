@@ -113,6 +113,9 @@ a {
     text-align: center;
     letter-spacing: 0.03em;
 }
+.work-team{
+    background-color: var(--backgroundcolor-team);
+}
 /* about team */
 .team{
     color: var(--primary-text-color);
@@ -120,6 +123,10 @@ a {
 }
 .title {
     color: var(--primary-text-color);
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.2;
+    letter-spacing: 0.03em;
 }
 /* footer */
 .footer{
