@@ -117,10 +117,10 @@ a {
     background-color: var(--backgroundcolor-team);
 }
 /* about team */
-.team{
+/* .team{
     color: var(--primary-text-color);
     background-color: var(--backgroundcolor-team);
-}
+} */
 .title {
     color: var(--primary-text-color);
     font-weight: 700;
