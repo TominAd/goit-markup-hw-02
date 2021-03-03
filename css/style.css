@@ -24,6 +24,7 @@ body {
     font-family: 'Roboto', sans-serif;
     letter-spacing: 0.03em;
     margin: 0;
+    padding: 0;
 }
 
 ul {
@@ -33,12 +34,16 @@ ul {
 }
 a {
     text-decoration: none;
+    margin: 0;
+    padding: 0;
 }
 .link{
     text-decoration: none;
 }
 .body {
     font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 .hero {
     background-color: var(--back-color);
