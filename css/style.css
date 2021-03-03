@@ -15,6 +15,7 @@
     --white-color: #ffffff;
     --back-color: #2f303a;
     --backgroundcolor-team: #f5f4fa;
+    --color-info: rgba(255, 255, 255, 0.6)
 }
 
 body {
@@ -214,7 +215,7 @@ a {
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
-    color: var(--title-text-color);
+    color: var(--color-info);
 }
 
 /* page portfolio */
