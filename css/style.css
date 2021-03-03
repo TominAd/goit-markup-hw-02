@@ -243,7 +243,6 @@ a {
     background-color: var(--backgroundcolor-team);
 
 }
-
 .button-portfolio:hover,
 .button-portfolio:focus {
    color: var(--white-color);
