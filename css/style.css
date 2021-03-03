@@ -41,11 +41,7 @@ a {
 .link{
     text-decoration: none;
 }
-.body {
-    font-family: 'Roboto', sans-serif;
-    margin: 0;
-    padding: 0;
-}
+
 .hero {
     background-color: var(--back-color);
 }
@@ -60,19 +56,11 @@ a {
     color: var(--accent-color);
 }
 .logo{
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 1.2;
-    letter-spacing: 0.03em;
+    
     color: var(--accent-color);
 }
 .logo-black{
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 1.2;
-    letter-spacing: 0.03em;
+    
     color: var(--primary-text-color);
 }
 
@@ -103,8 +91,8 @@ a {
     color: var(--title-text-color);
 }
 
-.site-nav-mail .info:hover,
-.site-nav-mail .info:focus {
+.site-nav-mail .contact-link:hover,
+.site-nav-mail .contact-link:focus {
     color: var(--accent-color);
 }
 /* section hero title */
@@ -193,7 +181,7 @@ a {
 .logo-footer{
     
     font-family: "Raleway", sans-serif;
-    font-weight: 700;
+    font-weight: 400;
     font-size: 26px;
     line-height: 1.2;
     letter-spacing: 0.03em;
@@ -219,7 +207,7 @@ a {
 }
 
 /* page portfolio */
-.portfolio .title {
+.portfolio {
     font-weight: 700;
     font-size: 18px;
     line-height: 2;
